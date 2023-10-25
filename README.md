@@ -1,5 +1,9 @@
-# GTA 5 Cleaner
-A tool to clean out mods from Grand Theft Auto 5 for online play, and restore them later.
+# Updated GTA 5 Cleaner
+A tool to clean out mods from Grand Theft Auto 5 for online play, and restore them later. 
+
+This version has been updated to support the latest version of Grand Theft Auto V that added several new .DLL and .BIN files required by GTA Online to function. Now these files will not be moved when a "Clean" is performed. 
+
+You may have to take _Ownership_ of the game's folder if you are using the version on the **Rockstar Game's Launcher** to ensure that the application works correctly.
 
 - [Download](#download)
 - [Usage](#usage)
@@ -98,4 +102,7 @@ nexe . --target win32-x86-10.13.0 -o ./dist/gta5cleaner.exe
 in the root directory of the project.
 
 ## Credits
+
+Original version by [Ganesh H](http://ganeshh123.github.io/).
+
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
