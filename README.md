@@ -17,9 +17,9 @@ You may have to take _Ownership_ of the game's folder if you are using the versi
 
 ## Download
 
-Get the latest version from the [Releases](https://github.com/ganeshh123/gta5-cleaner/releases/latest) page.
+Get the latest version from the [Releases](https://github.com/HoolieR/gta5-cleaner/releases/latest) page.
 
-[Download for Windows](https://github.com/ganeshh123/gta5-cleaner/releases/download/1.2.0/gta5cleaner_1.2.0.zip)
+[Download for Windows](https://github.com/HoolieR/gta5-cleaner/releases/download/v1.2.1/gta5cleaner_1.2.1.zip)
 
 ## Usage
 1. Download and extract `gta5cleaner.exe` to the root 'Grand Theft Auto V' folder (same place as `GTAV.exe`)
@@ -44,7 +44,7 @@ Get the latest version from the [Releases](https://github.com/ganeshh123/gta5-cl
 ## Building
 
 ### Source Code
-Git Repository: [https://github.com/ganeshh123/gta5-cleaner](https://github.com/ganeshh123/gta5-cleaner)
+Git Repository: [https://github.com/HoolieR/gta5-cleaner](https://github.com/HoolieR/gta5-cleaner)
 
 ### Running on Node
 1. Clone/Download the project and copy app.js and essentialFiles.js into the GTA 5 Installation root directory.
@@ -104,5 +104,7 @@ in the root directory of the project.
 ## Credits
 
 Original version by [Ganesh H](http://ganeshh123.github.io/).
+
+Original project by Ganesh H [available here](https://github.com/ganeshh123/gta5-cleaner)
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
